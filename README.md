@@ -1,4 +1,6 @@
 # text-detection
+自作データ構築中
+日本語のOCR作成のためテキスト検出器を作成しています。
 
 ## Example
 <p>
