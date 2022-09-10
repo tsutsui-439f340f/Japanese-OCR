@@ -13,5 +13,4 @@
 
 ## データセット構築状況
 Vottでアノテーションをしています。
-![image](https://user-images.githubusercontent.com/55880071/189475351-25d53e4c-e2bd-4e12-acb2-799b31113e0c.png)
-
+![image](https://user-images.githubusercontent.com/55880071/189475372-91095030-61ed-40a3-a836-661fe82b68cd.png)
