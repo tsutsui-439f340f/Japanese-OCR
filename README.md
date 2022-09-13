@@ -1,6 +1,9 @@
 # text-detection
+
 自作データ構築中
-日本語のOCR作成のためテキスト検出器を作成しています。
+日本語OCR作成のためテキスト検出器を作成しています。
+## ワークフロー
+![image](https://user-images.githubusercontent.com/55880071/190015890-09991789-70ac-4188-86b4-80516d8ba04a.png)
 
 ## サンプル
 <p>
