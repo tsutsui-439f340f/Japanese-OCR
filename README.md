@@ -5,9 +5,10 @@
 
 ## ワークフロー
 各ステップごとにデータとモデルの構築を行い、最終的に1つのモデルで対応する。
-![image](https://user-images.githubusercontent.com/55880071/190015890-09991789-70ac-4188-86b4-80516d8ba04a.png)
+<img src="https://user-images.githubusercontent.com/55880071/190015890-09991789-70ac-4188-86b4-80516d8ba04a.png" width="820" height="520">
 
 ## サンプル
+随時更新
 <p>
           
 <img src="https://user-images.githubusercontent.com/55880071/188486580-2add2328-f85f-4c45-8b01-a3b5b6f8f926.png" width="420" height="320">
