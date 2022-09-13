@@ -9,6 +9,10 @@
           
 <img src="https://user-images.githubusercontent.com/55880071/188486615-a3d800b1-770e-41e8-82b2-82e396d3bb16.png" width="420" height="320">
 
+<img src="https://user-images.githubusercontent.com/55880071/190014896-c167c271-1bd1-4527-a239-13be040e9bc7.png" width="420" height="320">
+
+<img src="https://user-images.githubusercontent.com/55880071/190014902-46eb4216-7375-4595-a131-51a6c640575c.png" width="420" height="320">
+
 </p>
 
 ## データセット構築状況
