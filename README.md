@@ -6,11 +6,11 @@
 
 ## ワークフロー
 各ステップごとにデータとモデルの構築を行い、最終的に1つのモデルで対応
-![image](https://user-images.githubusercontent.com/55880071/190018993-67046378-f039-4580-ba4c-294344b63778.png)
+![image](https://user-images.githubusercontent.com/55880071/190562237-58485ce9-5d6a-4d00-8596-b61e51196b15.png)
 
 ## サンプル
 随時更新
-![image](https://user-images.githubusercontent.com/55880071/190562206-e3a9fc5c-d1cb-4d90-bfd9-8dbe8560e97a.png)
+![image](https://user-images.githubusercontent.com/55880071/190562350-318f4ddf-c15d-49e9-b8a5-7704d439ce21.png)
 
 ## データセット構築状況
 文字認識のために画像中のテキスト領域を認識するデータセットを4つ作成しています。
