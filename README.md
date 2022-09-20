@@ -20,8 +20,7 @@ Microsoft社のVoTTを使ってアノテーションをしています。
 ![image](https://user-images.githubusercontent.com/55880071/190558020-2a186e36-d2f4-4a57-b47f-9270c669a634.png)
 ### 縦書き文字領域データセット
 縦書きテキスト領域から文字を抽出するためのデータセット
-![image](https://user-images.githubusercontent.com/55880071/190558201-7e7b6ae0-753b-4166-a748-f364336cb5e7.png)
-
+![image](https://user-images.githubusercontent.com/55880071/191225846-15364909-5e13-40cf-8f71-700f248ab2cc.png)
 ### 横書き文字領域データセット
 横書きテキスト領域から文字を抽出するためのデータセット
 ![image](https://user-images.githubusercontent.com/55880071/190558220-8c0a60c3-9ba7-4b99-bfcf-8b4db735efba.png)
