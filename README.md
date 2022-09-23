@@ -26,9 +26,11 @@ Microsoft社のVoTTを使ってアノテーションをしています。
 ![image](https://user-images.githubusercontent.com/55880071/190558220-8c0a60c3-9ba7-4b99-bfcf-8b4db735efba.png)
 
 ### 文字認識データセット
-抽出した文字を判定するためのデータセット
+抽出した文字を判定するためのデータセット\
 mnistとひらがな73文字に関しては外部データも使用しています。
+現在数字+カタカナ+ひらがな+少量の漢字に対応
+認識可能文字は随時更新
 
 ### 引用
-mnist [ https://github.com/pytorch ]
+mnist [ https://github.com/pytorch ]\
 文字画像データセット(平仮名73文字版)[ https://github.com/ndl-lab/hiragana_mojigazo ]
