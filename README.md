@@ -27,3 +27,8 @@ Microsoft社のVoTTを使ってアノテーションをしています。
 
 ### 文字認識データセット
 抽出した文字を判定するためのデータセット
+mnistとひらがな73文字に関しては外部データも使用しています。
+
+### 引用
+mnist [ https://github.com/pytorch ]
+文字画像データセット(平仮名73文字版)[ https://github.com/ndl-lab/hiragana_mojigazo ]
