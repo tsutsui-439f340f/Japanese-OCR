@@ -10,7 +10,8 @@
 
 ## サンプル
 随時更新
-![image](https://user-images.githubusercontent.com/55880071/190562350-318f4ddf-c15d-49e9-b8a5-7704d439ce21.png)
+![image](https://user-images.githubusercontent.com/55880071/191898993-1cb9f03d-7fa2-4f77-9e2f-96f5f2526477.png)
+
 
 ## データセット構築状況
 文字認識のために画像中のテキスト領域を認識するデータセットを4つ作成しています。\
