@@ -34,6 +34,7 @@ Dataset for determining the extracted characters.\
 The external data are mnist dataset and character image dataset corresponding to the 73 hiragana characters.\
 Currently supports numbers + katakana + hiragana + small amount of kanji.\
 Recognizable characters are updated as needed.
+![image](https://user-images.githubusercontent.com/55880071/192106299-52f3f0dc-7d4d-47d0-a143-ddd71bc0a5f0.png)
 
 ### 引用
 mnist [ https://github.com/pytorch ]\
