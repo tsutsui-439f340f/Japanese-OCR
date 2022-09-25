@@ -5,6 +5,7 @@
 カメラ画像やインターネット上の画像からテキスト情報を抽出し、物体と文字の意味関係を紐づけるデータベースの作成に使う予定です。
 ## History
 2022-09-23:Added 10 number words about 0 ~ 9
+2022-09-25:Registering additional many words. (total: 553 words) [word_dict.txt](https://github.com/tsutsui-439f340f/Japanese-OCR/files/9640496/word_dict.txt)
 
 
 ## Work Flow
