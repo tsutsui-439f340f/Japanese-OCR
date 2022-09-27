@@ -6,6 +6,7 @@
 ## History
 2022-09-23:Added 10 number words about 0 ~ 9 \
 2022-09-25:Registered additional many words. (total: 553 words) [word_dict.txt](https://github.com/tsutsui-439f340f/Japanese-OCR/files/9640496/word_dict.txt) \
+2022-09-28:Registered additional words. (total: 771 words) 
 
 
 
