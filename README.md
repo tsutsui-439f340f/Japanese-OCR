@@ -22,7 +22,7 @@ Update as needed
 ## Dataset construction
 Four datasets are created to recognize text regions in images for character recognition.\
 I am annotating with VoTT from Microsoft.
-### Textarea dataset
+### Text region dataset
 Dataset for extracting rough text regions from images.
 ![image](https://user-images.githubusercontent.com/55880071/190558020-2a186e36-d2f4-4a57-b47f-9270c669a634.png)
 ### Vertical Character Area Dataset
