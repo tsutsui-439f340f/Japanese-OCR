@@ -39,6 +39,6 @@ Currently supports numbers + katakana + hiragana + small amount of kanji.\
 Recognizable characters are updated as needed.
 ![image](https://user-images.githubusercontent.com/55880071/192106299-52f3f0dc-7d4d-47d0-a143-ddd71bc0a5f0.png)
 
-### 引用
+### Reference
 mnist [ https://github.com/pytorch ]\
 character image dataset(the 73 hiragana characters version)[ https://github.com/ndl-lab/hiragana_mojigazo ]
