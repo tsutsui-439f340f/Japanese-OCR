@@ -16,7 +16,7 @@
 
 ## Sample
 Update as needed
-![image](https://user-images.githubusercontent.com/55880071/191898993-1cb9f03d-7fa2-4f77-9e2f-96f5f2526477.png)
+![image](https://user-images.githubusercontent.com/55880071/192665742-72cb20dc-0b11-422d-83ef-0d7a9577b9cd.png)
 
 
 ## Dataset construction
