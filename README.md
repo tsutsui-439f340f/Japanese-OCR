@@ -11,7 +11,7 @@
 
 
 ## Work Flow
-各ステップごとにデータとモデルの構築を行い、最終的に1つのモデルで対応
+
 ![image](https://user-images.githubusercontent.com/55880071/190562237-58485ce9-5d6a-4d00-8596-b61e51196b15.png)
 
 ## Sample
@@ -29,7 +29,7 @@ Dataset for extracting rough text regions from a image.
 Dataset for extracting characters from a vertical text region.
 ![image](https://user-images.githubusercontent.com/55880071/191922409-718f989f-83f7-4d4a-9653-fb34a9cf1384.png)
 ### Horizontal character region dataset
-Dataset for extracting characters from a horizontal text region
+Dataset for extracting characters from a horizontal text region.
 ![image](https://user-images.githubusercontent.com/55880071/191922493-fa98d89d-579b-459d-b19c-aa3994dc0bd0.png)
 
 ### Character recognition dataset
