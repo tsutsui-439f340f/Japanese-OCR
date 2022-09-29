@@ -12,7 +12,7 @@
 
 ## Work Flow
 
-![image](https://user-images.githubusercontent.com/55880071/190562237-58485ce9-5d6a-4d00-8596-b61e51196b15.png)
+![image](https://user-images.githubusercontent.com/55880071/192951264-bb3bbba3-0280-4511-ac70-088c51e819c0.png)
 
 ## Sample
 Update as needed
