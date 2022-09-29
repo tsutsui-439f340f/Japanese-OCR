@@ -12,7 +12,7 @@
 
 ## Work Flow
 
-<img src="https://user-images.githubusercontent.com/55880071/192951264-bb3bbba3-0280-4511-ac70-088c51e819c0.png" width=300 height=300 >
+<img src="https://user-images.githubusercontent.com/55880071/192951264-bb3bbba3-0280-4511-ac70-088c51e819c0.png" width=600 height=300 >
 
 ## Sample
 Update as needed
