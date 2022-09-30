@@ -25,7 +25,8 @@ Four datasets are created to recognize text regions in images for character reco
 I am annotating with VoTT from Microsoft.
 ### Rough Text region dataset
 Dataset for extracting rough text regions from a image.
-![image](https://user-images.githubusercontent.com/55880071/190558020-2a186e36-d2f4-4a57-b47f-9270c669a634.png)
+![image](https://user-images.githubusercontent.com/55880071/193344042-24a39974-09ec-43a6-910b-90cce9e61dee.png)
+
 ### Vertical Character region Dataset
 Dataset for extracting characters from a vertical text region.
 ![image](https://user-images.githubusercontent.com/55880071/191922409-718f989f-83f7-4d4a-9653-fb34a9cf1384.png)
