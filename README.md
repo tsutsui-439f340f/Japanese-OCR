@@ -1,8 +1,8 @@
 # Japanese-OCR
 ## Overview
 汎用OCRをローカルで使えるようにしたかったので、自作データセットの構築からモデル開発までしています。\
-最終的には、ななめ文字やひずみ文字まで認識できるようにします。\
-カメラ画像やインターネット上の画像からテキスト情報を抽出し、物体と文字の意味関係を紐づけるデータベースの作成に使う予定です。
+最終的には、ななめ文字やひずみ文字まで認識できるようにします。
+
 ## History
 2022-09-23:Added 10 number characters about 0 ~ 9 \
 2022-09-25:Registered additional characters. (total:  553 characters)  \
