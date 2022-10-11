@@ -7,7 +7,10 @@
 2022-09-23:Added 10 number characters about 0 ~ 9 \
 2022-09-25:Registered additional characters. (total:  553 characters)  \
 2022-09-28:Registered additional characters. (total:  771 characters) \
-2022-09-29:Registered additional characters. (total: 6574 characters) 
+2022-09-29:Registered additional characters. (total: 6574 characters) \
+2022-10-05:Implementation of semi-automated annotation process\ 
+
+
 
 
 
