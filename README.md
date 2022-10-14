@@ -24,7 +24,7 @@ Update as needed (0928)
 
 
 ## Dataset construction
-three datasets are created to recognize text regions in images for character recognition.\
+Three datasets are created to recognize text regions in images for character recognition.\
 I am annotating with VoTT from Microsoft.
 ### Rough Text region dataset
 Dataset for extracting rough text regions from a image.
