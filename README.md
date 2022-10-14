@@ -24,7 +24,7 @@ Update as needed (0928)
 
 
 ## Dataset construction
-Four datasets are created to recognize text regions in images for character recognition.\
+three datasets are created to recognize text regions in images for character recognition.\
 I am annotating with VoTT from Microsoft.
 ### Rough Text region dataset
 Dataset for extracting rough text regions from a image.
@@ -37,12 +37,6 @@ Dataset for extracting characters from a vertical text region.
 Dataset for extracting characters from a horizontal text region.
 ![image](https://user-images.githubusercontent.com/55880071/191922493-fa98d89d-579b-459d-b19c-aa3994dc0bd0.png)
 
-### Character recognition dataset
-Dataset for determining the extracted characters.\
-The external data are mnist dataset and character image dataset corresponding to the 73 hiragana characters.\
-Currently supports numbers, katakana, hiragana and a few kanji.\
-Recognizable characters are updated as needed.
-![image](https://user-images.githubusercontent.com/55880071/192106299-52f3f0dc-7d4d-47d0-a143-ddd71bc0a5f0.png)
 
 ### Reference
 mnist [ https://github.com/pytorch ]\
