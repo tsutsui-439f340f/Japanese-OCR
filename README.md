@@ -11,8 +11,8 @@
 2022-10-05:Implementation of semi-automated annotation process
 
 ## Evaluation
-Using BLEU score.
-Max score :100\
+Using BLEU score.\
+Max score :100
 ### tategaki pdf Domain
 
 |  System  |  BLEU  |
