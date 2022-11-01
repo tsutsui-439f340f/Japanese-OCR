@@ -10,8 +10,12 @@
 2022-09-29:Registered additional characters. (total: 6574 characters) \
 2022-10-05:Implementation of semi-automated annotation process
 
-
-
+## Evaluation
+Using BLEU score.
+Max score :100
+|  System  |  BLEU  |
+| ---- | ---- |
+|  2022-1101  |  72.82  |
 
 
 ## Work Flow
