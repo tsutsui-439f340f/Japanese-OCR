@@ -9,11 +9,11 @@
 2022-09-28:Registered additional characters. (total:  771 characters) \
 2022-09-29:Registered additional characters. (total: 6574 characters) \
 2022-10-05:Implementation of semi-automated annotation process
-
+2022-11-01:Created test data for vertical writing data.
 ## Evaluation
 Using BLEU score.\
 Max score :100
-### tategaki pdf Domain
+### vertical writing data Domain
 
 |  System  |  BLEU  |
 | ---- | ---- |
