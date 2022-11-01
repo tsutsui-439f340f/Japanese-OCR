@@ -13,7 +13,7 @@
 ## Evaluation
 Using BLEU score.\
 Max score :100
-### vertical writing data Domain
+### Vertical writing data Domain
 
 |  System  |  BLEU  |
 | ---- | ---- |
