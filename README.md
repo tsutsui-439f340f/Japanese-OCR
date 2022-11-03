@@ -6,7 +6,7 @@
 ## History
 
 2022-11-01:Created test data for vertical writing data.\
-2022-10-05:Implementation of semi-automated annotation process\
+2022-10-05:Implemented semi-automated annotation process\
 2022-09-29:Registered additional characters. (total: 6574 characters) \
 2022-09-28:Registered additional characters. (total:  771 characters) \
 2022-09-25:Registered additional characters. (total:  553 characters)  \
