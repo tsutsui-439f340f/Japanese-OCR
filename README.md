@@ -4,12 +4,13 @@
 最終的には、ななめ文字やひずみ文字まで認識できるようにします。
 
 ## History
-2022-09-23:Registered number characters about 0 ~ 9 \
-2022-09-25:Registered additional characters. (total:  553 characters)  \
-2022-09-28:Registered additional characters. (total:  771 characters) \
-2022-09-29:Registered additional characters. (total: 6574 characters) \
+
+2022-11-01:Created test data for vertical writing data.\
 2022-10-05:Implementation of semi-automated annotation process\
-2022-11-01:Created test data for vertical writing data.
+2022-09-29:Registered additional characters. (total: 6574 characters) \
+2022-09-28:Registered additional characters. (total:  771 characters) \
+2022-09-25:Registered additional characters. (total:  553 characters)  \
+2022-09-23:Registered number characters about 0 ~ 9 
 ## Evaluation
 Using BLEU score.\
 Max score :100
@@ -27,9 +28,8 @@ Max score :100
 
 
 ## Sample
-Update as needed (20221019)
-![image](https://user-images.githubusercontent.com/55880071/196487417-06894afb-1db3-4c83-835b-28316539e8b6.png)
-![image](https://user-images.githubusercontent.com/55880071/196489245-a1162725-7b87-43b4-8a80-f26bff98397e.png)
+Update as needed (20221103)
+![image](https://user-images.githubusercontent.com/55880071/199670812-251bec1d-07a3-48f4-86be-ba7134e3ce49.png)
 
 
 
