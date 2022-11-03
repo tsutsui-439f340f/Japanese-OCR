@@ -15,7 +15,7 @@ Using BLEU score.\
 Max score :100
 ### Vertical writing data Domain
 
-|  System  |  BLEU  |
+|  System version  |  BLEU  |
 | ---- | ---- |
 |  2022-1101  |  72.82  |
 |  2022-1103  |  85.19  |
