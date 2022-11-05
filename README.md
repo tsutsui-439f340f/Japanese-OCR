@@ -20,6 +20,7 @@ Max score :100
 | ---- | ---- |
 |  2022-1101  |  72.82  |
 |  2022-1103  |  85.19  |
+|  2022-1105  |  90.28 |
 ### Horizontal writing data Domain
 
 ## Work Flow
