@@ -4,7 +4,7 @@ import torch.nn as nn
 import re
 
 from torchvision import models
-from torchvision.models import resnet50
+
 
 class CNNModel(nn.Module):
     def __init__(self,n:int):
@@ -18,7 +18,7 @@ class CNNModel(nn.Module):
 class CNNModel_ResNet(nn.Module):
     def __init__(self,n):
         super().__init__()
-        self.cnn_encoder = resnet50(pretrained=True)
+        self.cnn_encoder = models.resnet50(pretrained=True)
         self.cnn_encoder.fc = nn.Linear(2048,n)
     def forward(self, x):
         return self.cnn_encoder(x)
