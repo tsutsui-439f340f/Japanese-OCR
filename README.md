@@ -28,6 +28,9 @@ Max score :100
 ## Sample
 Update as needed (20221103)
 ![image](https://user-images.githubusercontent.com/55880071/199670812-251bec1d-07a3-48f4-86be-ba7134e3ce49.png)
+Update as needed (20221109)![pred_sample](https://user-images.githubusercontent.com/55880071/200763901-ab613c40-bd1d-4114-8fda-93077bf35831.png)
+
+
 
 
 
