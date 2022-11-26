@@ -49,7 +49,3 @@ Dataset for extracting characters from a vertical text region.
 Dataset for extracting characters from a horizontal text region.
 ![image](https://user-images.githubusercontent.com/55880071/195836042-17f3563c-1128-4e32-9579-dabfa62b5026.png)
 
-
-### Reference
-mnist [ https://github.com/pytorch ]\
-character image dataset(the 73 hiragana characters version)[ https://github.com/ndl-lab/hiragana_mojigazo ]
