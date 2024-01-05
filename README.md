@@ -1,8 +1,8 @@
 # Japanese-OCR
 ## Overview
 汎用OCRをローカルで使えるようにしたかったので、データセットの構築からモデル開発までしています。\
-現在はPC文字に対応したモデルの開発をしています。
-随時、手書き文字やななめ文字、ひずみ文字など認識機能の拡張をしていきます。
+現在は文書に対応したモデルの開発をしています。
+
 
 ## History
 
@@ -12,18 +12,6 @@
 2022-09-28:Registered additional characters. (total:  771 characters) \
 2022-09-25:Registered additional characters. (total:  553 characters)  \
 2022-09-23:Registered number characters about 0 ~ 9 
-## Evaluation
-Using BLEU score.\
-Max score :100
-### Vertical writing data Domain
-
-|  System version  |  BLEU  |
-| ---- | ---- |
-|  2022-1101  |  72.82  |
-|  2022-1103  |  85.19  |
-|  2022-1105  |  90.28 |
-|  2022-1106  |  91.41 |
-
 
 ## Sample
 Update as needed (20221109)
